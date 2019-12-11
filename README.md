@@ -1,14 +1,14 @@
 # Kaggle-project
 
-### The goal of this project is the prediction of the price of diamonds based on their characteristics (weight, color, quality of cut, etc.), putting into practice all the machine learning techniques you know.
-### The evaluation metric chosen for this competition is the RMSE (Root Mean Squared Error).
+#### The goal of this project is the prediction of the price of diamonds based on their characteristics (weight, color, quality of cut, etc.), putting into practice all the machine learning techniques you know.
+#### The evaluation metric chosen for this competition is the RMSE (Root Mean Squared Error).
 
-## Input Files
+### Input Files
 #### - data.csv: training set
 #### - test.csv: test set
 #### - sample_submission.csv: sample submission
 
-## - Features
+### - Features
 #### - id: only for test & sample submission files, id for prediction sample identification### - price: price in USD
 #### - carat: weight of the diamond
 #### - cut: quality of the cut (Fair, Good, Very Good, Premium, Ideal)
@@ -20,18 +20,18 @@
 #### - depth: total depth percentage = z / mean(x, y) = 2 * z / (x + y) (43--79)
 #### - table: width of top of diamond relative to widest point (43--95)
 
-## Output Files
+### Output Files
 #### price: prediction price about test.csv
 #### id: diamonds id test.csv
 
-## Techniques, in addition to studying the problem and drawing your conclusions:
+### Techniques, in addition to studying the problem and drawing your conclusions:
 #### - Feature Scaling o MinMax Scaler
 #### - Standard Scaler
 #### - Logarithmic scale
 #### - Get dummies
 #### - PCA
 
-## Regression models:
+### Regression models:
 #### - LogisticRegression
 #### - Support vector regression
 #### - Ridge
