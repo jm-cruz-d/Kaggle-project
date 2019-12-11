@@ -8,7 +8,7 @@
 #### - test.csv: test set
 #### - sample_submission.csv: sample submission
 
-### - Features
+### Features
 #### - id: only for test & sample submission files, id for prediction sample identification
 #### - price: price in USD
 #### - carat: weight of the diamond
