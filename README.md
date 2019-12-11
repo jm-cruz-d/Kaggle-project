@@ -9,7 +9,8 @@
 #### - sample_submission.csv: sample submission
 
 ### - Features
-#### - id: only for test & sample submission files, id for prediction sample identification### - price: price in USD
+#### - id: only for test & sample submission files, id for prediction sample identification
+#### - price: price in USD
 #### - carat: weight of the diamond
 #### - cut: quality of the cut (Fair, Good, Very Good, Premium, Ideal)
 #### - color: diamond colour, from J (worst) to D (best)
