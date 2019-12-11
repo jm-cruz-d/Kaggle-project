@@ -4,7 +4,7 @@
 ### The evaluation metric chosen for this competition is the RMSE (Root Mean Squared Error).
 
 ## Input Files
-### - data.csv: training set
+#### - data.csv: training set
 ### - test.csv: test set
 ### - sample_submission.csv: sample submission
 
